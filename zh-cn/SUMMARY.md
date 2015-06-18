@@ -1,30 +1,10 @@
 # 目录
 
 - [Linux 基础](linux/index.md)
-  - Linux 操作系统
-    - 安装与使用
-  - Linux 命令行
-    - 学习资料
-    - 核心概念
+  - [Linux 操作系统](linux/setup.md)
+  - [Linux 命令行](linux/cli.md)
 - [基于 Git 的版本控制](git/index.md)
-  - 学习资料
-  - 核心概念
 - [JavaScript 基础知识](javascript/index.md)
-  - 学习资料
-  - 核心概念
-    - 数据
-      - 字符串
-      - 数字
-      - 集合
-      - 函数
-      - 对象
-    - 过程
-      - 顺序
-      - 分支
-      - 循环
-  - 前端运行环境
-  - 后端运行环境
-  - 模块化编程
 - [编程基础训练](programming-basic/index.md)
   - 准备训练
   - 面向过程训练
