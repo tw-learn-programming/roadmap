@@ -2,7 +2,22 @@
 
 ## 学习资料
 
+### 在线学习
+
+- [CodeForDream](http://codefordream.com/paths/javascript/courses)
+
+学习顺序：
+
+1. JavaScript 基础
+2. JavaScript 基础 - 初级训练营
+3. JavaScript 中级
+
+### 教程和参考手册
+
 - [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### 交互式训练
+
 - [NodeSchool](http://nodeschool.io/zh-cn/#workshoppers)
 
 ## 核心知识
@@ -28,6 +43,7 @@
   - Node.js 发展史
   - 如何在 Node.js 中加载并执行 JavaScript
   - 如何使用 Node.js 和命令行调试 JavaScript 代码
+  - NPM
 - 模块化编程
   - AMD
   - CMD
